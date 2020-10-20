@@ -1,2 +1,7 @@
-let fourtyTwo = string_of_int([%gimme]);
-Js.log(fourtyTwo);
+module A = {
+  [@recoil]
+  type t = {name: string};
+};
+
+[@recoil]
+type t = string;

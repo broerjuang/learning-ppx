@@ -2,7 +2,17 @@
 # yarn lockfile v1
 
 
-bs-platform@7.0.0-dev.2:
-  version "7.0.0-dev.2"
-  resolved "https://registry.yarnpkg.com/bs-platform/-/bs-platform-7.0.0-dev.2.tgz#b3d1bc787c4fd1d9e7b86f515d82b3ed627bffe4"
-  integrity sha512-wN1gaovQ/h3VUMM7mqUMlptk8/LKbV0oDawcq6LgVIauI+GvIboJie1Y3235A1n3InHyT7YJ/wBwCsyEA9UN+g==
+bs-platform@^8.3.1:
+  version "8.3.1"
+  resolved "https://registry.yarnpkg.com/bs-platform/-/bs-platform-8.3.1.tgz#49ac0d7b84bcec190a7361353557cae965f92c67"
+  integrity sha512-U7nKEGF1BfvODzcv1g2loeltE8YRCgX8mMlCojImsgI0HwfQKEq7ggO5dF1ae9ZfFxiLaI0069ZyoK5GLBO2OQ==
+
+reason-react@^0.9.1:
+  version "0.9.1"
+  resolved "https://registry.yarnpkg.com/reason-react/-/reason-react-0.9.1.tgz#30a887158200b659aa03e2d75ff4cc54dc462bb0"
+  integrity sha512-nlH0O2TDy9KzOLOW+vlEQk4ExHOeciyzFdoLcsmmiit6hx6H5+CVDrwJ+8aiaLT/kqK5xFOjy4PS7PftWz4plA==
+
+reason-recoil@^0.10.0:
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/reason-recoil/-/reason-recoil-0.10.0.tgz#55cdb4a1f830e6dc85251d02d32793d9d0ae2167"
+  integrity sha512-QqG3tLOCOpe2nQkzognc7W8FeBmXvQU9nTb0/0AVK8ega4Xq1beNDN0YAhFlvAJ4pH9FMMtRt77KlfYEUhhZRg==
